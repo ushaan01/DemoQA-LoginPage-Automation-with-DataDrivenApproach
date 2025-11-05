@@ -1,5 +1,6 @@
 DemoQA Login Page Automation (Data-Driven PyTest Framework)
 
+
 📘 Project Overview
 
 This project automates the Login Page of DemoQA.com using:
@@ -34,7 +35,9 @@ HTML Reporting (pytest-html)
 | Browser         | Google Chrome           |
 
 
+
 📂 Folder Structure
+
 
 DemoQA_Login_Automation/
 
@@ -67,6 +70,7 @@ DemoQA_Login_Automation/
 │
 
 └── README.md                  # Project documentation
+
 
 
 ⚙️ How It Works
