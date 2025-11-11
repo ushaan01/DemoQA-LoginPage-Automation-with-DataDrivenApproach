@@ -106,6 +106,8 @@ Detailed Logs for Each Test
 
 Usha Nazare
 
+| Project Type           | Practice Project  |
+
 Python Selenium Automation Tester
 
 
